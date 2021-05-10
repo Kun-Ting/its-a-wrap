@@ -1,0 +1,44 @@
+{
+  "name": "pairwise-gradient-descent",
+  "version": "0.1.0",
+  "description": "pairwise-gradient-descent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kun-Ting/its-a-wrap.git"
+  },
+  "keywords": [
+    "Graph",
+    "Layout",
+    "Torus",
+    "Optimization"
+  ],
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "@babel/preset-react": "^7.0.0",
+    "babelify": "^10.0.0",
+    "grunt": "^0.4.5",
+    "grunt-browserify": "^5.3.0",
+    "grunt-contrib-concat": "^0.4.0",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-qunit": "^0.5.2",
+    "grunt-contrib-uglify": "^0.5.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-ts": "^6.0.0-beta.22",
+    "tsify": "^4.0.1",
+    "typescript": "^3.5.1"
+  },
+  "dependencies": {
+    "d3": "^5.9.2"
+  },
+  "author": "Kun-Ting Chen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kun-Ting/its-a-wrap/issues"
+  },
+  "homepage": "https://github.com/Kun-Ting/its-a-wrap#readme"
+}
