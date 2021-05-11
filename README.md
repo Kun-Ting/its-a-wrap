@@ -2,8 +2,7 @@
 ### Toroidal Wrapping of Network Visualisations Support Cluster Understanding Tasks
 =======
 
-JavaScript torus layout for high-quality graph visualization and exploration 
-using D3.js and other web-based graphics libraries.
+JavaScript torus layout for high-quality graph visualization and exploration based on pairwise gradient descent.
 
 [Homepage with code and examples](https://ialab.it.monash.edu/~kche0088/its-a-wrap/index.html)
 
